@@ -18,7 +18,6 @@ Primary stakeholders usually include team members, senior leaders, and customers
 When we talk about “stakes,” we are referring to the important parts of a business, situation, or project that might be at risk if something goes wrong. To hold stake in a business, situation, or project means you are invested in its success.
 
 
-
 ## Project manager
 project manager is responsible for the overall success of the team, and ultimately, the project as a whole. A project manager understands that paying close attention to team dynamics is essential to successfully completing a project, and they use team-building techniques, motivation, influencing, decision-making, and coaching skills, to keep their teams strong.
 
@@ -26,3 +25,29 @@ Project managers integrate all project work by developing the project management
 
 In addition, project managers are responsible for balancing the scope, schedule, and cost of a project by managing engagement with stakeholders. When managing engagement with stakeholders, project managers rely on strong communication skills, political and cultural awareness, negotiation, trust-building, and conflict management skills.
 
+## Stakeholder Analysis Example
+To highlight this on your resume, you could add: "Experienced in developing key project management documentation to support all phases of the project lifecycle."
+
+[Presentation](https://docs.google.com/presentation/d/1sLXhGUvAcseTiLADw0o9a6T2dG-VKCybeRLEIRljCdI/)
+
+* **Involvment** column: How will each stakeholder participate in the project?
+  What resources do they have that can help project success?
+  Consider each stakeholder’s involvement in the project, as well as any tools (software, hardware, etc.),
+  knowledge, or relationships that could be helpful.
+
+* **Engagement** column: where each stakeholder falls in the grid: monitor, show consideration, keep satisfied, or manage closely?
+  How often you should communicate with each stakeholder and what form that communication should take
+  (e.g. semi-regular consultations, frequent updates, etc.).
+  Depending on their role or resources, you might communicate with them daily, regularly, or rarely.
+
+### Power grid
+
+* As the project sponsor, the *Director of Product* has a **high** level of influence on the project. They are invested in the project’s success, but not involved on a day-to-day basis, so their interest is **medium**. You should communicate with them regularly, but not daily, to ensure they are satisfied with project progress.
+
+* The *Landscape Designer/Web Designer* has a **high** level of both influence and interest, which means you should manage them closely. You should communicate with them **daily** to discuss project tasks and to ensure you have their buy-in. If you have them on your side, they can help you manage relationships with other Office Green employees.
+
+* *Existing clients and their employees* are the core customer base for Plant Pals, so you need to make sure you’re building something they want to buy. Their feedback can help you measure project success, but you don’t need to communicate with them frequently. Occasional check-ins to gauge their satisfaction are appropriate. This is a large group of people with varying priorities and concerns, so their interest and influence are both marked as **medium**.
+
+* Office Green’s investors will not be directly involved in the project, so their interest in daily operations is **low**. However, their influence level is medium, since you need to protect their investment to keep their financial support. Giving them periodic updates on project milestones and performance would be appropriate.
+
+* The *Office Green receptionist*’s influence and interest in the project are both relatively *low*. You don’t need to communicate with them often until the project nears completion. They are not part of the project team, and you do not need to discuss the details with them until later in the process.
